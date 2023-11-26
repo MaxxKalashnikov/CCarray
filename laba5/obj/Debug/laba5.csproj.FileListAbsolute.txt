@@ -1,0 +1,15 @@
+C:\Users\Максим\source\repos\laba5\laba5\bin\Debug\laba5.exe.config
+C:\Users\Максим\source\repos\laba5\laba5\bin\Debug\laba5.exe
+C:\Users\Максим\source\repos\laba5\laba5\bin\Debug\laba5.pdb
+C:\Users\Максим\source\repos\laba5\laba5\obj\Debug\laba5.csproj.AssemblyReference.cache
+C:\Users\Максим\source\repos\laba5\laba5\obj\Debug\MainWindow.g.cs
+C:\Users\Максим\source\repos\laba5\laba5\obj\Debug\App.g.cs
+C:\Users\Максим\source\repos\laba5\laba5\obj\Debug\laba5_MarkupCompile.cache
+C:\Users\Максим\source\repos\laba5\laba5\obj\Debug\laba5_MarkupCompile.lref
+C:\Users\Максим\source\repos\laba5\laba5\obj\Debug\MainWindow.baml
+C:\Users\Максим\source\repos\laba5\laba5\obj\Debug\laba5.g.resources
+C:\Users\Максим\source\repos\laba5\laba5\obj\Debug\laba5.Properties.Resources.resources
+C:\Users\Максим\source\repos\laba5\laba5\obj\Debug\laba5.csproj.GenerateResource.cache
+C:\Users\Максим\source\repos\laba5\laba5\obj\Debug\laba5.csproj.CoreCompileInputs.cache
+C:\Users\Максим\source\repos\laba5\laba5\obj\Debug\laba5.exe
+C:\Users\Максим\source\repos\laba5\laba5\obj\Debug\laba5.pdb
